@@ -141,7 +141,8 @@ if __name__ == "__main__":
         examples=[
             ['growth is strong and we have plenty of liquidity.'],
             ['there is a shortage of capital, and we need extra financing.'],
-            ['formulation patents might protect Vasotec to a limited extent.']
+            ['formulation patents might protect Vasotec to a limited extent.'],
+            ["growth is strong and we have plenty of liquidity.|there is a shortage of capital"]
         ],
         allow_flagging=False,
         examples_per_page=2,
