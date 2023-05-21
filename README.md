@@ -1,4 +1,3 @@
-```markdown
 # Financial Sentiment Analysis
 
 Welcome to the Financial Sentiment Analysis project! This project aims to provide sentiment analysis on financial text data, helping to determine the sentiment (positive, negative, or neutral) in the context of financial news.
@@ -69,6 +68,3 @@ We would like to acknowledge the developers and contributors of the `finBERT-ton
 If you have any questions or need assistance, please feel free to reach out to us.
 
 Happy sentiment analysis!
-```
-
-Feel free to customize this README.md file to match your project's specific details and requirements.
