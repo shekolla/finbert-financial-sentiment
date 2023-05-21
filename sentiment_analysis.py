@@ -142,7 +142,9 @@ if __name__ == "__main__":
             ['growth is strong and we have plenty of liquidity.'],
             ['there is a shortage of capital, and we need extra financing.'],
             ['formulation patents might protect Vasotec to a limited extent.']
-        ]
+        ],
+        allow_flagging=False,
+        examples_per_page=2,
     )
 
     iface.launch()    
