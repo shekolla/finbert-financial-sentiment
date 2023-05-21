@@ -44,9 +44,17 @@ pip install -r requirements.txt
    python app.py
    ```
 
+## Deployment on Huggingface Spaces
+
+The Financial Sentiment Analysis tool is deployed on Huggingface Spaces, providing an easy-to-use interface for sentiment analysis on financial text. You can access the deployed tool using the following link:
+
+[Access Financial Sentiment Analysis on Huggingface Spaces](https://huggingface.co/spaces/shekolla/finbert-financial-sentiment)
+
 ## Usage
 
-To analyze the sentiment of financial text, provide the text as input to the appropriate model. The output will be the predicted sentiment (positive, negative, or neutral) along with any additional information provided by the chosen model (such as emotional tone analysis with `finBERT-tone`).
+1. Access the deployed Financial Sentiment Analysis tool using the provided link.
+
+2. Enter the financial text in the input field and click "Submit" to see the sentiment analysis results.
 
 ## Contributing
 
