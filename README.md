@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 5. Run the code:
    ```bash
-   python sentiment_analysis.py
+   python app.py
    ```
 
 ## Usage
